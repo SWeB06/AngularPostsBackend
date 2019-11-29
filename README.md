@@ -1,4 +1,4 @@
-# web4-2018219-backend-pvdh-SebasWoj
-web4-2018219-backend-pvdh-SebasWoj created by GitHub Classroom
+# Backend Angular Posts
+
 User : sebastienwojtyla@gmail.com 
-ww : Azertyuiop1@
+Pasword : Azertyuiop1@
